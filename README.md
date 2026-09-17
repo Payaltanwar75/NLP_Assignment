@@ -1,1 +1,2 @@
 # NLP_Assignment
+This project focuses on cleaning and preprocessing raw text data for Natural Language Processing (NLP). It includes techniques such as handling missing values, removing punctuation and special characters, converting text to lowercase, removing stopwords, tokenization, stemming, and lemmatization. The goal is to transform unstructured text into clean and meaningful data that can be effectively used for NLP tasks and machine learning models.
